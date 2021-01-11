@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Game Battles Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Game Battles Regular"),
+    url("GameBattlesRegular-RjXo.woff") format("woff");
+}
+
+h1 {
+  font-family: "Game Battles Regular";
+  font-weight: 200;
+  color: aliceblue;
+}
